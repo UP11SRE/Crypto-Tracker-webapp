@@ -5,7 +5,7 @@
 
 
 ## Demo
-#### Here is a working live demo :  
+#### Here is a working live demo :  https://namesoft-crypto-tracker.netlify.app
 
 ## Built with 
 
