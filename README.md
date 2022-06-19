@@ -1,11 +1,13 @@
 # Cryptocurrency Tracker with React JS, Material UI and Chart JS
 
+##JAI SHRI RAM...
+
 
 
 
 
 ## Demo
-#### Here is a working live demo :  
+#### Here is a working live demo :  https://namesoft-crypto-tracker.netlify.app
 
 ## Built with 
 
